@@ -1,0 +1,15 @@
+README.txt
+setup.cfg
+setup.py
+sym/__init__.py
+sym.theme.egg-info/PKG-INFO
+sym.theme.egg-info/SOURCES.txt
+sym.theme.egg-info/dependency_links.txt
+sym.theme.egg-info/entry_points.txt
+sym.theme.egg-info/namespace_packages.txt
+sym.theme.egg-info/not-zip-safe
+sym.theme.egg-info/paster_plugins.txt
+sym.theme.egg-info/requires.txt
+sym.theme.egg-info/top_level.txt
+sym/theme/__init__.py
+sym/theme/tests.py
